@@ -9,11 +9,11 @@ This project builds a **stock price prediction model** using machine learning. I
 ---
 
 ## 🔍 Key Features  
-✔ **Multi-Stock Learning** – Trained on multiple stocks instead of just one.  
-✔ **Three ML Models Compared** – Evaluates the best-performing model.  
-✔ **Time-Series Feature Engineering** – Uses historical prices to predict future trends.  
-✔ **Next 30-Day Forecast** – Predicts stock prices for the next month.  
-✔ **Visualized Performance** – Plots actual vs predicted prices & errors.  
+**Multi-Stock Learning** – Trained on multiple stocks instead of just one.  
+**Three ML Models Compared** – Evaluates the best-performing model.  
+**Time-Series Feature Engineering** – Uses historical prices to predict future trends.  
+**Next 30-Day Forecast** – Predicts stock prices for the next month.  
+**Visualized Performance** – Plots actual vs predicted prices & errors.  
 
 ---
 
